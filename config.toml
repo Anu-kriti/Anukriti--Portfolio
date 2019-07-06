@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://gupta-anukriti.com/"
 languageCode = "en-us"
-title = "A Hugo website"
-theme = "hugo-lithium"
+title = "ANUKRITI GUPTA"
+theme = "hyde-hyde"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
