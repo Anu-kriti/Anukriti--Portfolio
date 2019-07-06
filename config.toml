@@ -3,44 +3,43 @@ languageCode = "en-us"
 title = "ANUKRITI GUPTA"
 theme = "hyde-hyde"
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "Anukriti - portfolio"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
+
+## Site settings
+[params]
+    author = "ANUKRITI GUPTA"
+    authorimage = "/img/pic.jpeg"
+    description = "\"Contact data ages like fish not wine…it gets worse as it gets older, not better.\” — Gregg Thaler
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjs = true
+    highlightjsstyle = "github"
+    math = true
+    copyright = "&copy; 2018. All rights reserved."
+    
+## Social Accounts  
+[params.social]
+  	email = "gupta17anukriti@gmail.com"
+  	linkedin = "anukriti-gupta"
+  	github = "Anu-kriti"
 
 [[menu.main]]
     name = "About Me"
     url = "/about/"
 
 [[menu.main]]
-    name = "Resume"
-    url = "/about/"
+    name = "Papers"
+    identifier = "papers"
+    weight=300
+    url = "/papers/"
     
-[params.social]
-  	Gmail = "gupta17anukriti@gmail.com"
-  	Linkedin = "https://www.linkedin.com/in/anukriti-gupta-5a583921/"
-  	github = "https://github.com/Anu-kriti"
-
-
-[params]
-    description = "A website built through Hugo and blogdown."
-
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.12.0"
-    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
-
-    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    MathJaxVersion = "2.7.5"
-
-    # path to the favicon, under "static"
-    favicon = "favicon.ico"
-
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
-
+menu.main]]
+    name = "Resume"
+    identifier = "resume"
+    weight=300
+    url = "/pdf/Resume_Anukriti_Gupta.pdf"
+  
