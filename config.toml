@@ -30,6 +30,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [[menu.main]]
+    name = "About Me"
+    url = "/about/"
+
+[[menu.main]]
     name = "Papers"
     identifier = "papers"
     weight=300
@@ -43,28 +47,25 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Extra-currics"
+    identifier = "Extra-currics"
     url = "/Extra-currics/"
   
   
 [[menu.main]]
     name = "Achievements"
-    url = "/achievements/"
+    identifier = "achievement"
+    url = "/achievement/"
   
 [[menu.main]]
     name = "Internships"
+    identifier = "Internship"
     url = "/internship/"
-
-[[menu.main]]
-    name = "Projects"
-    url = "/projects/"
 
   
 [[menu.main]]
     name = "Education"
+    identifier = "education"
     url = "/education/"
   
 
-[[menu.main]]
-    name = "About Me"
-    url = "/about/"
   
