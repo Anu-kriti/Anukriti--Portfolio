@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://gupta-anukriti.com/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://gupta-anukriti.com/about/</guid>
-      <description>Experienced Data Scientist with a demonstrated history of working in the banking &amp;amp; health care industry, skilled in Statistical Modeling, C++, Predictive Analytics, Machine Learning, and Deep Learning. Strong professional with a Master&amp;rsquo;s Degree focused in Mathematics from Indian Institute of Technology, Bombay.</description>
-    </item>
-    
-    <item>
       <title>Hello R Markdown</title>
       <link>https://gupta-anukriti.com/2015/07/23/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -48,6 +39,15 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>https://gupta-anukriti.com/2015/01/01/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gupta-anukriti.com/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gupta-anukriti.com/papers/</guid>
+      <description>Papers authored/co-authored by Anukriticode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
   </channel>

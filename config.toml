@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     author = "ANUKRITI GUPTA"
     authorimage = "/img/pic.jpeg"
-    description = "\"Contact data ages like fish not wine…it gets worse as it gets older, not better.\” — Gregg Thaler
+    description = "\"Contact data ages like fish not wine…it gets worse as it gets older, not better.\" — Gregg Thaler"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjs = true
@@ -37,7 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight=300
     url = "/papers/"
     
-menu.main]]
+[[menu.main]]
     name = "Resume"
     identifier = "resume"
     weight=300
