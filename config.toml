@@ -12,8 +12,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 ## Site settings
 [params]
     author = "ANUKRITI GUPTA"
-    authorimage = "/img/pic.jpeg"
-    description = "\"Contact data ages like fish not wine…it gets worse as it gets older, not better.\" — Gregg Thaler"
+    authorimage = "/img/pic.jpg"
+    description = "Data Scientist | Mathematican | IIT Bombay"
+  #  description = "\"Contact data ages like fish not wine…it gets worse as it gets older, not better.\" - Gregg Thaler"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjs = true
@@ -27,9 +28,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   	linkedin = "anukriti-gupta"
   	github = "Anu-kriti"
 
-[[menu.main]]
-    name = "About Me"
-    url = "/about/"
 
 [[menu.main]]
     name = "Papers"
@@ -37,9 +35,36 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight=300
     url = "/papers/"
     
+#[[menu.main]]
+#    name = "Resume"
+#    identifier = "resume"
+#    weight=300
+#    url = "/pdf/Resume_Anukriti_Gupta.pdf"
+
 [[menu.main]]
-    name = "Resume"
-    identifier = "resume"
-    weight=300
-    url = "/pdf/Resume_Anukriti_Gupta.pdf"
+    name = "Extra-currics"
+    url = "/Extra-currics/"
+  
+  
+[[menu.main]]
+    name = "Achievements"
+    url = "/achievements/"
+  
+[[menu.main]]
+    name = "Internships"
+    url = "/internship/"
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+
+  
+[[menu.main]]
+    name = "Education"
+    url = "/education/"
+  
+
+[[menu.main]]
+    name = "About Me"
+    url = "/about/"
   
