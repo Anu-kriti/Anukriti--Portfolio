@@ -1,10 +1,14 @@
+
 baseurl = "https://gupta-anukriti.netlify.com/"
-languageCode = "en-us"
+languageCode = "en"
+
 title = "ANUKRITI GUPTA"
 theme = "hyde-hyde"
-googleAnalytics = ""
+
+#googleAnalytics = ""
 disqusShortname = "Anukriti-portfolio"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+relativeURLs = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -12,7 +16,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 ## Site settings
 [params]
     author = "ANUKRITI GUPTA"
+    #themeColor = "theme-base-0c"
     authorimage = "/img/pic.png"
+    dateformat = "Jan 2, 2006"
     description = "Data Scientist | Mathematican |   IIT Bombay"
   #  description = "\"Contact data ages like fish not wine…it gets worse as it gets older, not better.\" - Gregg Thaler"
 
@@ -31,6 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "About Me"
+    identifier = "about"
     weight = 10
     url = "/about/"
 
@@ -70,7 +77,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 50
     url = "/Extra-currics/"
   
- 
+[[menu.main]]
+    name = "Volunteer"
+    identifier = "Volunteer"
+    weight = 50
+    url = "/Volunteer/"
+  
 
   
 
