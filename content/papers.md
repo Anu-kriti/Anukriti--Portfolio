@@ -6,8 +6,6 @@ author: "Anukriti Gupta"
 
 
 
-
-
 **Right time to Engage** 
-A methodology to identify the right time to contact a member.
+* A methodology to identify the right time to contact a member.
 ---
