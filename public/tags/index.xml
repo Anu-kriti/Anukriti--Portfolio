@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ANUKRITI GUPTA</title>
-    <link>https://gupta-anukriti.com/tags/</link>
+    <link>https://gupta-anukriti.netlify.com/tags/</link>
     <description>Recent content in Tags on ANUKRITI GUPTA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://gupta-anukriti.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gupta-anukriti.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R Markdown</title>
-      <link>https://gupta-anukriti.com/tags/r-markdown/</link>
+      <link>https://gupta-anukriti.netlify.com/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://gupta-anukriti.com/tags/r-markdown/</guid>
+      <guid>https://gupta-anukriti.netlify.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://gupta-anukriti.com/tags/plot/</link>
+      <link>https://gupta-anukriti.netlify.com/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://gupta-anukriti.com/tags/plot/</guid>
+      <guid>https://gupta-anukriti.netlify.com/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://gupta-anukriti.com/tags/regression/</link>
+      <link>https://gupta-anukriti.netlify.com/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://gupta-anukriti.com/tags/regression/</guid>
+      <guid>https://gupta-anukriti.netlify.com/tags/regression/</guid>
       <description></description>
     </item>
     
