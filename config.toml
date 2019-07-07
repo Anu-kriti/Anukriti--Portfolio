@@ -78,7 +78,7 @@ relativeURLs = true
 #    url = "/Extra-currics/"
   
 [[menu.main]]
-    name = "Volunteer"
+    name = "Spare time"
     identifier = "Volunteer"
     weight = 50
     url = "/Volunteer/"
