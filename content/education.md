@@ -4,4 +4,18 @@ title: "Education"
 author: "Anukriti Gupta"
 ---
 
-I did bachelors in Mathematics from Hindu College, Delhi University and masters in Mathematics from IIT Bombay. I have always been scholar throught my academic life. 
+I have always been scholar throught my academic life. 
+
+Masters in Mathematics, IIT Bombay 
+- Secured 2nd rank with 9.29 CGPA
+
+Bachelors in Mathematics, Hindu College, Delhi University
+- Secured 1st rank in all 3 years of graduation.
+
+
+I also did online certifications for courses like 
+
+- BASICS OF PYTHON
+- NEURAL NETWORKS AND DEEP LEARNING
+- IMPROVING DEEP NEURAL NETWORKS 
+- RECOMMENDATION ENGINE
