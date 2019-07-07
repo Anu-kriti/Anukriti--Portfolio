@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "ANUKRITI GUPTA"
 theme = "hyde-hyde"
 googleAnalytics = ""
-disqusShortname = "Anukriti - portfolio"
+disqusShortname = "Anukriti-portfolio"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
@@ -12,8 +12,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 ## Site settings
 [params]
     author = "ANUKRITI GUPTA"
-    authorimage = "/img/pic.jpg"
-    description = "Data Scientist | Mathematican | IIT Bombay"
+    authorimage = "/img/pic.png"
+    description = "Data Scientist | Mathematican |   IIT Bombay"
   #  description = "\"Contact data ages like fish not wine…it gets worse as it gets older, not better.\" - Gregg Thaler"
 
     # options for highlight.js (version, additional languages, and theme)
@@ -25,7 +25,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 ## Social Accounts  
 [params.social]
   	email = "gupta17anukriti@gmail.com"
-  	linkedin = "anukriti-gupta"
+  	linkedin = "anukriti-gupta-5a583921"
   	github = "Anu-kriti"
 
 
@@ -37,25 +37,25 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Education"
     identifier = "education"
-    weight = 50
+    weight = 20
     url = "/education/"
 
 [[menu.main]]
     name = "Internships"
     identifier = "Internship"
-    weight = 40
+    weight = 30
     url = "/internship/"  
  
 [[menu.main]]
     name = "Achievements"
     identifier = "achievement"
-    weight = 30
+    weight = 40
     url = "/achievement/"
 
 [[menu.main]]
     name = "Papers"
     identifier = "papers"
-    weight=300
+    weight=100
     url = "/papers/"
     
 #[[menu.main]]
