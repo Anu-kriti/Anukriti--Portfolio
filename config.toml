@@ -71,17 +71,12 @@ relativeURLs = true
 #    weight=300
 #    url = "/pdf/Resume_Anukriti_Gupta.pdf"
 
-#[[menu.main]]
-#    name = "Extra-currics"
-#    identifier = "Extra-currics"
-#    weight = 50
-#    url = "/Extra-currics/"
-  
 [[menu.main]]
-    name = "Spare time"
-    identifier = "Volunteer"
+    name = "Extra-currics"
+    identifier = "Extra-currics"
     weight = 50
-    url = "/Volunteer/"
+    url = "/Extra-currics/"
+
   
 
   
