@@ -67,7 +67,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Extra-currics"
     identifier = "Extra-currics"
-    weight = 30
+    weight = 50
     url = "/Extra-currics/"
   
  
