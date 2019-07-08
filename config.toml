@@ -16,7 +16,7 @@ relativeURLs = true
 ## Site settings
 [params]
     author = "ANUKRITI GUPTA"
-    #themeColor = "theme-base-0c"
+    themeColor = "theme-base-0c"
     authorimage = "/img/pic.png"
     dateformat = "Jan 2, 2006"
     description = "Data Scientist | Mathematican |   IIT Bombay"
@@ -26,6 +26,7 @@ relativeURLs = true
     highlightjs = true
     highlightjsstyle = "github"
     math = true
+    showBuiltWith = true
     copyright = "&copy;. All rights reserved."
     
 ## Social Accounts  
