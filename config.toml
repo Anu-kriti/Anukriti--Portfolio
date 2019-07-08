@@ -65,11 +65,11 @@ relativeURLs = true
     weight=100
     url = "/papers/"
     
-#[[menu.main]]
-#    name = "Resume"
-#    identifier = "resume"
-#    weight=300
-#    url = "/pdf/Resume_Anukriti_Gupta.pdf"
+[[menu.main]]
+    name = "Resume"
+    identifier = "resume"
+    weight=300
+    url = "/pdf/Resume_Anukriti_Gupta.pdf"
 
 [[menu.main]]
     name = "Extra-currics"
