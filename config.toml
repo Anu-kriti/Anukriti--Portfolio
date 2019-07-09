@@ -6,7 +6,7 @@ title = "ANUKRITI GUPTA"
 theme = "hyde-hyde"
 
 #googleAnalytics = ""
-disqusShortname = "@anukritigupta"
+disqusShortname = "anukritigupta"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 relativeURLs = true
 
