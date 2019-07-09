@@ -5,18 +5,18 @@ languageCode = "en"
 title = "ANUKRITI GUPTA"
 theme = "hyde-hyde"
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #googleAnalytics = ""
 disqusShortname = "anukritigupta"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 relativeURLs = true
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+#[permalinks]
+    #post = "/:year/:month/:day/:slug/"
 
 ## Site settings
 [params]
     author = "ANUKRITI GUPTA"
-    themeColor = "theme-base-0a"
+    themeColor = "theme-base-0f"
     authorimage = "/img/pic.png"
     dateformat = "Jan 2, 2006"
     description = "Data Scientist | Mathematican |   IIT Bombay"
