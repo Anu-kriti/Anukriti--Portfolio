@@ -66,26 +66,6 @@ Currently I am working as Data Scientist with UnitedHealth Group, improving memb
     
     <item>
       <title>Internships</title>
-      <link>/projects/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Email Engagement of Member • Improved the methodology to define the members’ level of email engagement by including their interaction data from previous years. Also used Empirical Bayesian Model to predict the likelihood of a member opening an email in future
-Pah Finder for Screening • Identified an optimized path to target members for Breast Cancer Screening campaign to increase their engagement and to reduce unproductive communications using Decision Trees and Markov Model in PySpark</description>
-    </item>
-    
-    <item>
-      <title>Papers authored</title>
-      <link>/papers/</link>
-      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/papers/</guid>
-      <description>RIGHT TIME TO ENGAGE- RTE
-A methodology to identify the right time to contact a member.</description>
-    </item>
-    
-    <item>
-      <title>internship</title>
       <link>/internship/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
@@ -98,21 +78,23 @@ A methodology to identify the right time to contact a member.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/internship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Internships</title>
+      <link>/projects/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/internship/</guid>
-      <description>Internshipscode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+      <guid>/projects/</guid>
+      <description>Email Engagement of Member • Improved the methodology to define the members’ level of email engagement by including their interaction data from previous years. Also used Empirical Bayesian Model to predict the likelihood of a member opening an email in future
+Pah Finder for Screening • Identified an optimized path to target members for Breast Cancer Screening campaign to increase their engagement and to reduce unproductive communications using Decision Trees and Markov Model in PySpark</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Papers authored/coauthored by Anukriti</title>
       <link>/papers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/papers/</guid>
-      <description>Papers authoredcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+      <description>RIGHT TIME TO ENGAGE- RTE
+A methodology to identify the right time to contact a member.</description>
     </item>
     
     <item>
