@@ -73,20 +73,18 @@ relativeURLs = true
     weight=100
     url = "/papers/"
     
-
 [[menu.main]]
-    name = "Resume"
-    identifier = "resume"
-    weight=300
-    url = "/pdf/Resume_Anukriti_Gupta.pdf"
+    name = "Blogs"
+    identifier = "Blogs"
+    weight=100
+    url = "/Blogs/"
+    
+#[[menu.main]]
+#    name = "Resume"
+#    identifier = "resume"
+#    weight=300
+#    url = "/pdf/Resume_Anukriti_Gupta.pdf"
 
-
-[[menu.main]]
-    name = "Posts"
-    weight = 150
-    identifier = "posts"
-    url = "/posts/"
-  
 
   
 
