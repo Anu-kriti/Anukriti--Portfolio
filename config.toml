@@ -16,7 +16,7 @@ relativeURLs = true
 ## Site settings
 [params]
     author = "ANUKRITI GUPTA"
-    themeColor = "theme-base-08"
+    themeColor = "theme-base-0a"
     authorimage = "/img/pic.png"
     dateformat = "Jan 2, 2006"
     description = "Data Scientist | Mathematican |   IIT Bombay"
@@ -83,4 +83,4 @@ relativeURLs = true
   
 
 
-  
+## https://themes.gohugo.io/hyde/
