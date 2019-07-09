@@ -6,7 +6,7 @@ title = "ANUKRITI GUPTA"
 theme = "hyde-hyde"
 
 #googleAnalytics = ""
-disqusShortname = "Anukriti-portfolio"
+disqusShortname = "@anukritigupta"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 relativeURLs = true
 
@@ -16,7 +16,7 @@ relativeURLs = true
 ## Site settings
 [params]
     author = "ANUKRITI GUPTA"
-    themeColor = "theme-base-0c"
+    themeColor = "theme-base-08"
     authorimage = "/img/pic.png"
     dateformat = "Jan 2, 2006"
     description = "Data Scientist | Mathematican |   IIT Bombay"
