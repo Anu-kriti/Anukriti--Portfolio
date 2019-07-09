@@ -73,11 +73,11 @@ relativeURLs = true
     weight=100
     url = "/papers/"
     
-#[[menu.main]]
-#    name = "Blogs"
-#    identifier = "Blogs"
-#    weight=100
-#    url = "/Blogs/"
+[[menu.main]]
+    name = "Blogs"
+    identifier = "Blogs"
+    weight=100
+    url = "/post/"
     
 #[[menu.main]]
 #    name = "Resume"
