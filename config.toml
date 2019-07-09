@@ -50,8 +50,8 @@ relativeURLs = true
     url = "/education/"
 
 [[menu.main]]
-    name = "Internships"
-    identifier = "Internship"
+    name = "internship"
+    identifier = "internship"
     weight = 30
     url = "/internship/"  
  
@@ -73,11 +73,11 @@ relativeURLs = true
     weight=100
     url = "/papers/"
     
-[[menu.main]]
-    name = "Blogs"
-    identifier = "Blogs"
-    weight=100
-    url = "/post/"
+#[[menu.main]]
+#    name = "Blogs"
+#    identifier = "Blogs"
+#    weight=100
+#    url = "/post/"
     
 #[[menu.main]]
 #    name = "Resume"

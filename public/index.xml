@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANUKRITI GUPTA</title>
+    <link>/</link>
+    <description>Recent content on ANUKRITI GUPTA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Experienced Data Scientist with a demonstrated history of working in banking &amp;amp; health care industry, skilled in Statistical Modeling, C++, Predictive Analytics, Machine Learning, and Deep Learning. Strong professional with a Master`s Degree focused in Mathematics from Indian Institute of Technology, Bombay. I intend to focus in Reinforcment Learning, Artificial Intelligence and Information Retrieval.
+Currently I am working as Data Scientist with UnitedHealth Group, improving member experience and hassles through analytics.</description>
+    </item>
+    
+    <item>
+      <title>Achievements</title>
+      <link>/achievement/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/achievement/</guid>
+      <description>Awarded Go to the Extra Mile Award, 1 in a team of 60, for initiating a new initiative AES PINE. First and only person in the team to receive a Bravo Award from the client for value creation in an on-site project. Won a Datahack ML competition (1st place among 6 teams) organized by Optum to predict the service outage of an application Awarded STAR Performer Award, 1 in a team of 326, for delivering the Big Data Hassle Free BCS leveraging Markov Chain Model Awarded Team Excellence Award, for delivering the leveraging Machine Learning techniques on 3 Big Data projects.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/education/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/education/</guid>
+      <description>Masters in Mathematics, IIT Bombay
+ Secured 2nd rank with 9.29 CGPA  Bachelors in Mathematics, Hindu College, Delhi University
+ Secured 1st rank in all 3 years of graduation  Online Certifications
+ BASICS OF PYTHON NEURAL NETWORKS AND DEEP LEARNING IMPROVING DEEP NEURAL NETWORKS RECOMMENDATION ENGINE  </description>
+    </item>
+    
+    <item>
+      <title>Extra-currics</title>
+      <link>/extra-currics/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/extra-currics/</guid>
+      <description>TEACHING SKILLS
+ Experience of 4 years in teaching Science and Mathematics to around 20 students of secondary and higher secondary classes  DANCE
+ Represented the department in Dance Competition, PG Cult 2013 (Selected for second level) and Sophie Prod 2012, IIT Bombay Active member of SRIJYA (dance society of Hindu College) and won many prizes among DU colleges  </description>
+    </item>
+    
+    <item>
+      <title>Extra-currics</title>
+      <link>/volunteer/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/volunteer/</guid>
+      <description>INVITED TALKS
+ Attended events in colleges like Shaheed Rajguru College of Applied Sciences for Women, Hindu College, and Delhi Technical University etc., on Data Science and Analytics to graduates who are all set to be a part of future Data Science rally.  RLADIES CHAPTER
+ Started RLadies Delhi Chapter to encourage women in Data Science enviornment and also help them in getting comfortable with R.  TEACHING SKILLS</description>
+    </item>
+    
+    <item>
+      <title>Internships</title>
+      <link>/projects/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Email Engagement of Member • Improved the methodology to define the members’ level of email engagement by including their interaction data from previous years. Also used Empirical Bayesian Model to predict the likelihood of a member opening an email in future
+Pah Finder for Screening • Identified an optimized path to target members for Breast Cancer Screening campaign to increase their engagement and to reduce unproductive communications using Decision Trees and Markov Model in PySpark</description>
+    </item>
+    
+    <item>
+      <title>Papers authored</title>
+      <link>/papers/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/</guid>
+      <description>RIGHT TIME TO ENGAGE- RTE
+A methodology to identify the right time to contact a member.</description>
+    </item>
+    
+    <item>
+      <title>internship</title>
+      <link>/internship/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/internship/</guid>
+      <description>MINISTRY OF STATISTICS AND PROGRAMME IMPLEMENTATION, GOVT. OF INDIA
+(JUL – AUG, 2013)
+ Statistically analyzed the demographic profiles of India using Census 2011 data Identified various factors that affect population growth IMR with major focus on Empowered Action Group (EAG)   JAYPEE GROUP
+(MAY – JUL, 2013)
+ Studied the emergence of Derivatives trading in various sectors of Indian Economy and its application to minimize the risk  BANKING MANAGEMENT SYSTEM USING C++</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/internship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/internship/</guid>
+      <description>Internshipscode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/</guid>
+      <description>Papers authoredcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/incrementalml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/incrementalml/</guid>
+      <description>code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/incrementalml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/incrementalml/</guid>
+      <description>What is Incremental Learning?
+Incremental Learning also called as Self Learning/Online Learning. It is a method which allows us to model problem where we have a continuous stream of data coming in. The basic requirement of Incremental ML comes when the training data becomes available gradually over the time which will eventually cost high computation in storing or building the model. The method is applicable for both Supervised and Unsupervised learning techniques.</description>
+    </item>
+    
+  </channel>
+</rss>

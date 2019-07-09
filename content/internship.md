@@ -1,5 +1,5 @@
 ---
-title: "Internships"
+title: "internship"
 author: "Anukriti Gupta"
 date: '2019-07-07'
 ---

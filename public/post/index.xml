@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ANUKRITI GUPTA</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on ANUKRITI GUPTA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/post/incrementalml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/incrementalml/</guid>
+      <description>code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/incrementalml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/incrementalml/</guid>
+      <description>What is Incremental Learning?
+Incremental Learning also called as Self Learning/Online Learning. It is a method which allows us to model problem where we have a continuous stream of data coming in. The basic requirement of Incremental ML comes when the training data becomes available gradually over the time which will eventually cost high computation in storing or building the model. The method is applicable for both Supervised and Unsupervised learning techniques.</description>
+    </item>
+    
+  </channel>
+</rss>
