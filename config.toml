@@ -34,6 +34,7 @@ relativeURLs = true
   	email = "gupta17anukriti@gmail.com"
   	linkedin = "anukriti-gupta-5a583921"
   	github = "Anu-kriti"
+  	
 
 
 [[menu.main]]
@@ -61,22 +62,25 @@ relativeURLs = true
     url = "/achievement/"
 
 [[menu.main]]
+    name = "Extra-currics"
+    identifier = "Extra-currics"
+    weight = 50
+    url = "/Extra-currics/"
+    
+[[menu.main]]
     name = "Papers"
     identifier = "papers"
     weight=100
     url = "/papers/"
     
+
 [[menu.main]]
     name = "Resume"
     identifier = "resume"
     weight=300
     url = "/pdf/Resume_Anukriti_Gupta.pdf"
 
-[[menu.main]]
-    name = "Extra-currics"
-    identifier = "Extra-currics"
-    weight = 50
-    url = "/Extra-currics/"
+
 [[menu.main]]
     name = "Posts"
     weight = 150
