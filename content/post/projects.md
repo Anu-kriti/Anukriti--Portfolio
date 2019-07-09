@@ -1,7 +1,7 @@
 ---
-date: "2019-07-07"
-title: "Intersnhips"
+title: "Internships"
 author: "Anukriti Gupta"
+date: '2019-07-07'
 ---
 
 **Email Engagement of Member**

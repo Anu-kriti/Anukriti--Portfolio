@@ -77,7 +77,11 @@ relativeURLs = true
     identifier = "Extra-currics"
     weight = 50
     url = "/Extra-currics/"
-
+[[menu.main]]
+    name = "Posts"
+    weight = 150
+    identifier = "posts"
+    url = "/posts/"
   
 
   

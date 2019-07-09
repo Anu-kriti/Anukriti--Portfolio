@@ -1,7 +1,7 @@
 ---
-date: "2019-07-07"
 title: "Education"
 author: "Anukriti Gupta"
+date: '2019-07-07'
 ---
 
 **Masters in Mathematics, IIT Bombay**

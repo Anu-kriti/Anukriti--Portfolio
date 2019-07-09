@@ -1,7 +1,7 @@
 ---
-date: "2019-07-07"
 title: "Papers authored/co-authored by Anukriti"
 author: "Anukriti Gupta"
+date: '2019-07-07'
 ---
 
 
