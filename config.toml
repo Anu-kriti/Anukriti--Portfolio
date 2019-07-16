@@ -67,7 +67,7 @@ theme = "hyde-hyde"
     weight = 100
     url = "/about/"
 [[menu.main]]
-    name = "Achievement"
+    name = "Achievements"
     identifier = "Achievement"
     weight = 500
     url = "/achievement/"
@@ -77,12 +77,12 @@ theme = "hyde-hyde"
     weight = 200
     url = "/education/"
 [[menu.main]]
-    name = "internship"
+    name = "internships"
     identifier = "internship"
     weight = 400
     url = "/internship/"
-[[menu.main]]
-    name = "Resume"
-    identifier = "CV"
-    weight = 600
-    url = "/pdf/resume/"
+#[[menu.main]]
+#    name = "Resume"
+#    identifier = "CV"
+#    weight = 600
+#    url = "/pdf/Resume_Anukriti_Gupta.pdf"

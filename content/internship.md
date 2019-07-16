@@ -10,12 +10,15 @@ date: '2019-07-07'
 
 *	Statistically analyzed the demographic profiles of India using Census 2011 data 
 *	Identified various factors that affect population growth IMR with major focus on Empowered Action Group (EAG)
-                  
+
+---
 
 **JAYPEE GROUP**      
  *(MAY – JUL, 2013)*
 
 *	Studied the emergence of Derivatives trading in various sectors of Indian Economy and its application to minimize the    risk 
+
+---
 
 **BANKING MANAGEMENT SYSTEM USING C++**     
  *(NOV 2012)*
