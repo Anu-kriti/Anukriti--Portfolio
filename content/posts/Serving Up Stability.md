@@ -33,3 +33,5 @@ The Problem is to predict service outage or probability associated with it at ce
 ## Model Accuracy
  AUC - 98.06954
  
+ ![Fig 1. Variable Importance](/img/SUS.png)
+ 
