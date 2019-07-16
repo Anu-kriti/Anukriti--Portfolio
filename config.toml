@@ -1,92 +1,88 @@
-
+## Basic Configuration
 baseurl = "https://gupta-anukriti.netlify.com/"
 languageCode = "en"
 
 title = "ANUKRITI GUPTA"
 theme = "hyde-hyde"
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-#googleAnalytics = ""
-disqusShortname = "anukritigupta"
-relativeURLs = true
+## Hugo Built-in Features
+ disqusShortname = "disqus_SDBxwgPgWU"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
 
-#[permalinks]
-    #post = "/:year/:month/:day/:slug/"
+# summarylength = 30
 
-## Site settings
+#paginate = 5
+
+## Site Settings
 [params]
-    author = "ANUKRITI GUPTA"
-    themeColor = "theme-base-0f"
+    author = "Anukriti Gupta"
+    title = "ANUKRITI GUPTA"
+    # description = "..."
     authorimage = "/img/pic.png"
+    themeColor = "theme-base-0f"
     dateformat = "Jan 2, 2006"
-    description = "Data Scientist | Mathematican |   IIT Bombay"
-  #  description = "\"Contact data ages like fish not wine…it gets worse as it gets older, not better.\" - Gregg Thaler"
 
-    # options for highlight.js (version, additional languages, and theme)
+    # sidebar, copyright & license
+    copyright = "&copy. All rights reserved."
+    # license = "CC BY-SA 4.0"
+    # licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
     highlightjs = true
     highlightjsstyle = "github"
-    math = true
-    showBuiltWith = true
-    copyright = "&copy;. All rights reserved."
     
-## Social Accounts  
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
 [params.social]
-  	email = "gupta17anukriti@gmail.com"
-  	linkedin = "anukriti-gupta-5a583921"
-  	github = "Anu-kriti"
-  	
+    github = "Anu-kriti"
+    # instagram = "<username>"
+    # xing = "<username>"
+    linkedin = "anukriti-gupta-5a583921"
+    # twitter = "<username>"
+    # facebook = "<username>"
+    # stackoverflow = "<username>"
+    # telegram = "<username>"
+    email = "gupta17anukriti@gmail.com"
+    # gravatar = "your-email@example.com"
 
-
+## Main Menu
+[[menu.main]]
+    name = "Blog Posts"
+    weight = 300
+    identifier = "posts"
+    url = "/posts/"
 [[menu.main]]
     name = "About Me"
     identifier = "about"
-    weight = 10
+    weight = 100
     url = "/about/"
-
 [[menu.main]]
-    name = "Education"
-    identifier = "education"
-    weight = 20
-    url = "/education/"
-
-[[menu.main]]
-    name = "Internships"
-    identifier = "internship"
-    weight = 30
-    url = "/internship/"  
- 
-[[menu.main]]
-    name = "Achievements"
-    identifier = "achievement"
-    weight = 40
+    name = "Achievement"
+    identifier = "Achievement"
+    weight = 500
     url = "/achievement/"
-
 [[menu.main]]
-    name = "Extra-currics"
-    identifier = "Extra-currics"
-    weight = 50
-    url = "/Extra-currics/"
-    
+    name = "education"
+    identifier = "education"
+    weight = 200
+    url = "/education/"
 [[menu.main]]
-    name = "papers"
-    identifier = "papers"
-    weight=100
-    url = "/papers/"
-    
-#[[menu.main]]
-#    name = "Blogs"
-#    identifier = "Blogs"
-#    weight=100
-#    url = "/post/"
-    
-#[[menu.main]]
-#    name = "Resume"
-#    identifier = "resume"
-#    weight=300
-#    url = "/pdf/Resume_Anukriti_Gupta.pdf"
-
-
-  
-
-
-## https://themes.gohugo.io/hyde/
+    name = "internship"
+    identifier = "internship"
+    weight = 400
+    url = "/internship/"
+[[menu.main]]
+    name = "Resume"
+    identifier = "CV"
+    weight = 600
+    url = "/pdf/resume/"

@@ -12,6 +12,26 @@
     
     
     <item>
+      <title>Incremental Machine Learning</title>
+      <link>/posts/incrementalml/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/incrementalml/</guid>
+      <description>What is Incremental Learning? Incremental Learning also called as Self Learning/Online Learning. It is a method which allows us to model problem where we have a continuous stream of data coming in. The basic requirement of Incremental ML comes when the training data becomes available gradually over the time which will eventually cost high computation in storing or building the model. The method is applicable for both Supervised and Unsupervised learning techniques.</description>
+    </item>
+    
+    <item>
+      <title>Serving Up Stability - HALICON OPTUM Datahack</title>
+      <link>/posts/serving-up-stability/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/serving-up-stability/</guid>
+      <description>BACKGROUND Service Outage is when system fails to provide or perform its primary function.
+PROBLEM The Problem is to predict service outage or probability associated with it at certain point of time
+Data  CPU Related – CPUPercent, SystemModeCPUPercent, UserModeCPUPercent Network Related - NetworkPacketRate ,NetworkInboundPacketRate , NetworkOutboundPacketRate Space Related - ActiveProcesses RunQueue PeakDiskUtilization PhysicalDiskIORate PhysicalDiskByteRate MemoryPageoutRate Memory Utilization SwapSpaceUtilization PeakFilesystemSpaceUtilization  Approach  Feature extraction: Time series features are extracted from the data using the date-time field like day, month, weekday and hour etc.</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>/about/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
@@ -98,22 +118,41 @@ A methodology to identify the right time to contact a member.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/post/incrementalml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>DERA</title>
+      <link>/portfolio/dera/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/incrementalml/</guid>
-      <description>code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+      <guid>/portfolio/dera/</guid>
+      <description>This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems. DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of run-time evolution and adaptation (i.e., enabling run-time flexibility) while minimizing the non-deterministic nature of traditional event-based applications (i.e., supporting formal analysis).</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/post/incrementalml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>hyde-hyde</title>
+      <link>/portfolio/hyde-hyde/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/incrementalml/</guid>
-      <description>What is Incremental Learning?
-Incremental Learning also called as Self Learning/Online Learning. It is a method which allows us to model problem where we have a continuous stream of data coming in. The basic requirement of Incremental ML comes when the training data becomes available gradually over the time which will eventually cost high computation in storing or building the model. The method is applicable for both Supervised and Unsupervised learning techniques.</description>
+      <guid>/portfolio/hyde-hyde/</guid>
+      <description>Hyde-hyde is a responsive Hugo theme inspired by @spf13&amp;rsquo;s Hyde and its variant Nate Finch&amp;rsquo;s blog. It was heavily restructured with modularised page layouts for easier maintenance and modification. Hyde-hyde offers awesome features such as nice colour tone, code highlighting, Font-Awesome 5&amp;rsquo;s sidebar icons), a cool portfolio page, more choices for commenting (e.g. GraphComment, Disqus).</description>
+    </item>
+    
+    <item>
+      <title>LaraMod</title>
+      <link>/portfolio/laramod/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/laramod/</guid>
+      <description>LaraMod is another modularisation effort to systematically organising a Laravel based project. The idea stems from my struggle to structure a Laravel-based project so that I can work effectively on individual modules whilst keeping Laravel codebase intact as much as possible and also keeping the project&amp;rsquo;s codebase separate from Laravel.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>

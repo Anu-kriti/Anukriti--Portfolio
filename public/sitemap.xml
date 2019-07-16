@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/incrementalml/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/serving-up-stability/</loc>
+    <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -49,27 +59,105 @@
   </url>
   
   <url>
-    <loc>/post/incrementalml/</loc>
+    <loc>/portfolio/dera/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/incrementalml/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/incrementalml/</loc>
+    <loc>/tags/partialfit/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/tags/self-learning/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/hyde-hyde/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/laramod/</loc>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hackathon/</loc>
+    <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/machinelearning/</loc>
+    <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,9 +6,82 @@
     <description>Recent content in Tags on ANUKRITI GUPTA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IncrementalML</title>
+      <link>/tags/incrementalml/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/incrementalml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PartialFit</title>
+      <link>/tags/partialfit/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/partialfit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Learning</title>
+      <link>/tags/self-learning/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/self-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>/tags/hackathon/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MachineLearning</title>
+      <link>/tags/machinelearning/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machinelearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
