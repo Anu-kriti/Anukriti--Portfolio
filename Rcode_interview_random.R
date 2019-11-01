@@ -11,13 +11,6 @@ def maxDiff(n, a):
   
     
     
-    
-    
-    
-    
-    
-    
-    
     f <- file("stdin")
     open(f)
     filename <- readLines(f, n = 1)

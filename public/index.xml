@@ -37,8 +37,10 @@ Data  CPU Related – CPUPercent, SystemModeCPUPercent, UserModeCPUPercent Netwo
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Experienced Data Scientist with a demonstrated history of working in banking &amp;amp; health care industry, skilled in Statistical Modeling, C++, Predictive Analytics, Machine Learning, and Deep Learning. Strong professional with a Master`s Degree focused in Mathematics from Indian Institute of Technology, Bombay. I intend to focus in Reinforcment Learning, Artificial Intelligence and Information Retrieval.
-Currently I am working as Data Scientist with UnitedHealth Group, improving member experience and hassles through analytics.</description>
+      <description>Experienced Data Scientist with a demonstrated history of working in banking &amp;amp; health care industry, skilled in Statistical Modeling, C++, Predictive Analytics, Machine Learning, and Deep Learning.
+Strong professional with a Master`s Degree focused in Mathematics from Indian Institute of Technology, Bombay.
+I intend to focus in Reinforcment Learning, Artificial Intelligence and Information Retrieval.
+Currently I am working as a Senior Data Scientist with UnitedHealth Group, improving member experience and reducing their hassles through analytics.</description>
     </item>
     
     <item>
@@ -118,6 +120,17 @@ A methodology to identify the right time to contact a member.</description>
     </item>
     
     <item>
+      <title>Volunteer Experience</title>
+      <link>/volunteer-experience/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/volunteer-experience/</guid>
+      <description>INVITED TALKS
+ Delhi University Colleges: Python and ML workshops. MinneAnalytics Conference Minnesota: Provider Rating Score  RLadies Delhi
+R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community. Our goal is to promote diversity and encourage women to involve in the community of R by conducting various events related to analytics, data science and R programming to share our knowldege and experiences together. These events will include: talks, training, workshop, hackathons and projects.</description>
+    </item>
+    
+    <item>
       <title>DERA</title>
       <link>/portfolio/dera/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
@@ -153,6 +166,15 @@ A methodology to identify the right time to contact a member.</description>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/volunteer-experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/volunteer-experience/</guid>
+      <description>Volunteer Experiencecode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
   </channel>
